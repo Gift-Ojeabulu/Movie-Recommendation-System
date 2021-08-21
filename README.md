@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie Recommender System
 
 
 ## ✅  Demo video 
