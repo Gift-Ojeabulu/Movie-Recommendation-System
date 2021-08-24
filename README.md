@@ -4,6 +4,7 @@
 The Goal of this project is to build a Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
 
 ## ✅  Demo video 
+![](https://github.com/Gift-Ojeabulu/Movie-Recommendation-System/blob/main/The%20Movie%20Recommender%20App%20(2).gif)
 
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
