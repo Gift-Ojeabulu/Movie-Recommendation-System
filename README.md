@@ -20,13 +20,6 @@ The Goal of this project is to build a Content-based movie recommendation system
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
-## DEPLOYMENT 🚀
-
-#### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [LIVE WEB APP](https://gift-movie-recommender.herokuapp.com/)
-#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
-
-
 
 
 ## ✅ Tech stack!
@@ -36,18 +29,13 @@ The Goal of this project is to build a Content-based movie recommendation system
     * BeautifulSoup
     * Python 
     * HTML & CSS
-## ✅This will give insight on :
+    
+    ## DEPLOYMENT 🚀
 
-## ✅ Technologies and libraries used
-| Name  | Second Header |
-| ------------- | ------------- |
-| Flask |  *An open source app framework for building beautiful web apps* |
-| Scikit-learn  | *python library to provides a selection of efficient tools for machine learning and statistical modeling*  |
-| Scipy| *A python library used to used to solve scientific and mathematical problems.* |
-| NLTK | *A python library used for building Python programs that work with human language data for applying in statistical natural language processing (NLP).*|
-| Pandas | *python library for data manipulaion and analysis*|
-| Numpy | *Python library for numerical computation*|
-| BeautifulSoup | *Python library for  for parsing HTML and XML documents*|
-| tmdbv3api | *A lightweight Python library for The Movie Database (TMDb) API.*|
+#### This website is deployed at [Heroku](https://www.heroku.com/)
+#### You can access it [LIVE WEB APP](https://gift-movie-recommender.herokuapp.com/)
+#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
+
+
 
 
