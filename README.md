@@ -1,4 +1,4 @@
-# Movie Recommender System
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Movie-Recommender%20App&fontSize=60)
 
 
 ## ✅  Demo video 
