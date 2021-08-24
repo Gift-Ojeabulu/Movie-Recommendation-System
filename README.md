@@ -30,7 +30,7 @@ The Goal of this project is to build a Content-based movie recommendation system
     * Python 
     * HTML & CSS
     
-    ## DEPLOYMENT 🚀
+## DEPLOYMENT 🚀
 
 #### This website is deployed at [Heroku](https://www.heroku.com/)
 #### You can access it [LIVE WEB APP](https://gift-movie-recommender.herokuapp.com/)
