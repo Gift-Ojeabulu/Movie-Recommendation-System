@@ -32,12 +32,10 @@ The Goal of this project is to build a Content-based movie recommendation system
 ## ✅ Tech stack!
 	* FLask
     * JavaScript
-    * Heroku
-    * NLTK
     * Tmdbv3API
-    * Python
-    * Bootstrap
-    * HTML
+    * BeautifulSoup
+    * Python 
+    * HTML & CSS
 ## ✅This will give insight on :
 
 ## ✅ Technologies and libraries used
