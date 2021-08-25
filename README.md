@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Movie-Recommender%20App&fontSize=60)
 
+## ✅ Problem Statement
+
 ## ✅ Goal
 The Goal of this project is to build a Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
 
